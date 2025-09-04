@@ -1,0 +1,1 @@
+from NPT.npt.model.npt import NPTModel

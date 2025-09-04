@@ -1,0 +1,6 @@
+,dataset,corruption,loss,patience,fold,test_score,z_score_LR,p_score_LR,z_score_GBT,p_score_GBT,avg_loss_time
+0,sepsis,draw-feature,loss=scarf,9999,0,0.937740474529568,0,0,0,0,0.007549151440461477
+1,sepsis,draw-feature,loss=scarf,9999,1,0.9163644157110887,0,0,0,0,0.007714188834031423
+2,sepsis,draw-feature,loss=scarf,9999,2,0.9328409166962517,0,0,0,0,0.007604213376839955
+3,sepsis,draw-feature,loss=scarf,9999,3,0.9356320604400521,0,0,0,0,0.007717419187227885
+4,sepsis,draw-feature,loss=scarf,9999,4,0.9398769728417236,0,0,0,0,0.0076172280311584475

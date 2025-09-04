@@ -1,0 +1,6 @@
+,dataset,corruption,loss,patience,fold,test_score,z_score_LR,p_score_LR,z_score_GBT,p_score_GBT,avg_loss_time
+0,breast-cancer,draw-feature,loss=scarf,9999,0,0.965060378218273,0,0,0,0,0.007677198529243469
+1,breast-cancer,draw-feature,loss=scarf,9999,1,0.9734808562744625,0,0,0,0,0.007587904393672943
+2,breast-cancer,draw-feature,loss=scarf,9999,2,0.9560273762928301,0,0,0,0,0.007768231868743897
+3,breast-cancer,draw-feature,loss=scarf,9999,3,0.9565835208828798,0,0,0,0,0.007768012702465057
+4,breast-cancer,draw-feature,loss=scarf,9999,4,0.991128074399212,0,0,0,0,0.007830566465854645

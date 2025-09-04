@@ -1,0 +1,18 @@
+name: contrastive
+channels:
+  - defaults
+  - nvidia
+  - pytorch
+  - conda-forge
+  - anaconda
+dependencies:
+  - pytorch=1.13.1
+  - python=3.7.16
+  - pymc3
+  - tensorflow=1.14
+  - pytorch-cuda==11.7
+  - jupyter
+  - tqdm
+  - matplotlib
+  - pandas
+  - scikit-learn

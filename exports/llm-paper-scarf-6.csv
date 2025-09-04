@@ -1,0 +1,6 @@
+,dataset,corruption,loss,patience,fold,test_score,z_score_LR,p_score_LR,z_score_GBT,p_score_GBT,avg_loss_time
+0,yeast,draw-feature,loss=scarf,9999,0,0.5748631033686281,0,0,0,0,0.00775286497010125
+1,yeast,draw-feature,loss=scarf,9999,1,0.523985401576896,0,0,0,0,0.007973376565509373
+2,yeast,draw-feature,loss=scarf,9999,2,0.5172004313893005,0,0,0,0,0.008041979657279121
+3,yeast,draw-feature,loss=scarf,9999,3,0.5285597335022723,0,0,0,0,0.0078042524390750465
+4,yeast,draw-feature,loss=scarf,9999,4,0.5483448155951748,0,0,0,0,0.008117137299643622

@@ -1,0 +1,47 @@
+name: npt
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - cudatoolkit=10.1
+  - python=3.8
+  - torch=1.13.0
+  - torchvision
+  - tensorboard
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - openpyxl
+  - openml
+  - numpy=1.23
+  - pillow
+  - pandas
+  - pytorch-lightning
+  - pip
+  - pip:
+    - wandb
+    - pycodestyle
+    - dotmap
+    - line-profiler
+    - tqdm
+    - patool
+    - wget
+    - xgboost
+    - catboost
+    - transformers
+    - pytorch-tabnet
+    - numba
+    - ogb
+    - memory-profiler
+    - seaborn
+    - tensorboardX
+    - seaborn
+    - fairseq
+    - dotmap
+    - tabnet
+    - lightgbm
+    - notebook
+    - matplotlib
+    - qhoptim
+prefix: /home/cida-lab-2/miniconda3/envs/npt

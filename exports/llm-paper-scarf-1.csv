@@ -1,0 +1,6 @@
+,dataset,corruption,loss,patience,fold,test_score,z_score_LR,p_score_LR,z_score_GBT,p_score_GBT,avg_loss_time
+0,dermatology,draw-feature,loss=scarf,9999,0,1.0,0,0,0,0,0.007585118293762207
+1,dermatology,draw-feature,loss=scarf,9999,1,0.9467981382216046,0,0,0,0,0.007718942284584045
+2,dermatology,draw-feature,loss=scarf,9999,2,0.9726027397260274,0,0,0,0,0.007554904460906982
+3,dermatology,draw-feature,loss=scarf,9999,3,0.9589891942482771,0,0,0,0,0.007488631248474121
+4,dermatology,draw-feature,loss=scarf,9999,4,0.9581629276685858,0,0,0,0,0.007629526376724243

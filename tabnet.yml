@@ -1,0 +1,14 @@
+name: tabnet
+channels:
+  - defaults
+dependencies:
+  - tensorflow-gpu=1.11.0
+  - pandas
+  - scikit-learn
+  - tqdm
+  - reindent
+  - ipykernel
+  - jupyter
+  - openpyxl
+  - openml
+prefix: /home/cida-lab-2/miniconda3/envs/tabnet

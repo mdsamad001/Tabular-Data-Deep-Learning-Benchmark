@@ -1,0 +1,11 @@
+dataset,corruption,fold,test_score,dataset_name
+3,knn-mcar-0.8,0,0.9921889326975976,kr-vs-kp
+3,knn-mcar-0.8,1,0.9843569935187603,kr-vs-kp
+3,knn-mcar-0.8,2,0.971844649474505,kr-vs-kp
+3,knn-mcar-0.8,3,0.9890461360530941,kr-vs-kp
+3,knn-mcar-0.8,4,0.9796626942851505,kr-vs-kp
+3,mice-mcar-0.8,0,0.9843769869217752,kr-vs-kp
+3,mice-mcar-0.8,1,0.9953048186201551,kr-vs-kp
+3,mice-mcar-0.8,2,0.9843526210551894,kr-vs-kp
+3,mice-mcar-0.8,3,0.9859181879289821,kr-vs-kp
+3,mice-mcar-0.8,4,0.9874804381846636,kr-vs-kp

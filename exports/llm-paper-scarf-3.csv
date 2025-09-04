@@ -1,0 +1,6 @@
+,dataset,corruption,loss,patience,fold,test_score,z_score_LR,p_score_LR,z_score_GBT,p_score_GBT,avg_loss_time
+0,diabetes,draw-feature,loss=scarf,9999,0,0.7105107282098432,0,0,0,0,0.007799643278121948
+1,diabetes,draw-feature,loss=scarf,9999,1,0.72016902983565,0,0,0,0,0.007548886632919312
+2,diabetes,draw-feature,loss=scarf,9999,2,0.736243107924524,0,0,0,0,0.007897705602645874
+3,diabetes,draw-feature,loss=scarf,9999,3,0.7373425125317963,0,0,0,0,0.00801303095817566
+4,diabetes,draw-feature,loss=scarf,9999,4,0.7225625206599062,0,0,0,0,0.00793957633972168
