@@ -1,15 +1,32 @@
-this folder contains experiments of attention-vs-contrastive benchmark paper.
+# Attention versus Contrastive Learning of Tabular Data: A Data-Centric Benchmarking
 
-It contains multiple baseline folder like
-- tabnet/*
-- NPT/*
+This repository contains the code and experiments for our paper:  
 
-Notebooks contain baseline methods and their experiments. They are spread into multiple files to allow running them in parallel.
-- llm-paper-*.ipynb = these contain scarf experiments used as a baseline in llm benchmark paper
-- baseline-*.ipynb = these contain various baselines used in the main benchmark paper. Tabnet, NPT and FTT requires using their own conda environments
-- test-scarf-*.ipynb = contains contrastive learning experiments with different corruption (augmentation) methods.
+**Rabbani, S.B., Medri, I.V. & Samad, M.D. _Attention versus contrastive learning of tabular data: a data-centric benchmarking_. Int J Data Sci Anal (2024).**  
+📄 [https://doi.org/10.1007/s41060-024-00681-z](https://doi.org/10.1007/s41060-024-00681-z)
 
+---
 
-helpers/* folder contain many utility files as well as the training and corruption code for contrastive learning.
-- trainer*.py = contains contrastive learning training and test functions
-- corruptor_df.py = contains different corruptions method used
+## 📂 Repository Structure
+
+### Baselines
+- `tabnet/*` – TabNet baseline experiments  
+- `NPT/*` – Neural Processes for Tabular (NPT) experiments  
+
+### Notebooks
+- `baseline-*.ipynb` – Baseline methods used in the benchmark (TabNet, NPT, FTT, etc.).  
+  - ⚠️ TabNet, NPT, and FTT require their own conda environments.  
+- `test-scarf-*.ipynb` – Contrastive learning experiments with different corruption (augmentation) methods.  
+
+### Helpers
+- `helpers/trainer*.py` – Training and evaluation functions for contrastive learning.  
+- `helpers/corruptor_df.py` – Implementations of different corruption (augmentation) methods.  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
