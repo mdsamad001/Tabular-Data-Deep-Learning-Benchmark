@@ -11,7 +11,7 @@ This repository contains the code and experiments for our paper:
 
 ### Baselines
 - `tabnet/*` – TabNet baseline experiments  
-- `NPT/*` – Neural Processes for Tabular (NPT) experiments  
+- `NPT/*` – Non-Parametric Transformers (NPT) experiments  
 
 ### Notebooks
 - `baseline-*.ipynb` – Baseline methods used in the benchmark (TabNet, NPT, FTT, etc.).  
